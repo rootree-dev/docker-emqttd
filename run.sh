@@ -1,2 +1,2 @@
 #!/bin/bash
-./bin/emqttd start
+./bin/emqttd console
